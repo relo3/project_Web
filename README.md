@@ -18,20 +18,7 @@
     https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png"
             width="150">
     </a>
-      <a href="https://php.net">
-              <img
-            alt="PHP"
-            src="
-    https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png"
-            width="150">
-    </a>
-      <a href="https://php.net">
-              <img
-            alt="PHP"
-            src="
-      https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png"
-            width="150">
-    </a>
+    
 
 </div>
 
