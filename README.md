@@ -1,10 +1,5 @@
 <div align="center">
-    <a href="https://php.net">
-        <img
-            alt="PHP"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"
-            width="150">
-    </a>
+    
      <a href="https://php.net">
         <img
             alt="PHP"
