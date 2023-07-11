@@ -11,6 +11,7 @@
             src="https://www.php.net/images/logos/new-php-logo.svg"
             width="150">
     </a>
+ <a href"#">   <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png"  ></a>
 </div>
 
 # The PHP Interpreter
