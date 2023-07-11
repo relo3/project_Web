@@ -11,7 +11,8 @@
             src="https://www.php.net/images/logos/new-php-logo.svg"
             width="150">
     </a>
-
+  <a href"#">   <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" width="150"  > </a>
+    <a href"#"><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" ></a> 
  
 </div>
 
